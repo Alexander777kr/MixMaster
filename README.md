@@ -6,7 +6,7 @@
 
 ## https://mix-master-019.netlify.app/
 
-styled-components, react-toastify, react router 6+ (loaders & actions), axios, react query, axios, error pages
+styled-components, react-toastify, react router 6+ (loaders & actions), axios, react query, error pages
 
 ```
 
